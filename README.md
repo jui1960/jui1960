@@ -14,7 +14,7 @@ Tools: VS Code · pycharm . Android Studio · IntelliJ IDEA · GitHub
 
 - 📚 Studying : CSE at Bogura Polytechnic Institute  
 - 🔭 Working on : Flutter app development projects during internship  
-- 🌱 Learning : Machine Learning course at @phitron
+- 🌱 Learning : Machine Learning course at @phitronio
 - 💬 practise : Competitive Programming
 
 - 📫 Contact Me
