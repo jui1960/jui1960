@@ -1,4 +1,4 @@
-Hi, I'm Jannati Jui 👋
+Hi, I'm Jannati Akter Jui 👋
 I'm a CSE student at Bogura Polytechnic and an intern at Daffodil International Professional Institute.
 
 
