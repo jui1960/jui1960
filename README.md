@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi, I'm Jannati Jui 👋
+I'm a CSE student at Bogura Polytechnic and an intern at Daffodil International Professional Institute.
 
-<!--
-**jui1960/jui1960** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Skills
 
-Here are some ideas to get you started:
+Languages: C · C++ . python . dart . java . DSA
+Frontend: XML · Jetpack Compose · HTML · CSS · Flutter  
+Tools: VS Code · pycharm . Android Studio · IntelliJ IDEA · GitHub 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎯 Currently
+
+- 📚 Studying : CSE at Bogura Polytechnic Institute  
+- 🔭 Working on : Flutter app development projects during internship  
+- 🌱 Learning : Machine Learning course at @phitron
+- 💬 practise : Competitive Programming
+
+- 📫 Contact Me
+
+- ✉️ Email: juifull196044@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jannati-akter-jui/)
+)  
+- 🧑‍💻 [GitHub](https://github.com/jui1960)  
+- 🌐 [Facebook](https://www.facebook.com/jannati.jui.135850)  
+
+
+
