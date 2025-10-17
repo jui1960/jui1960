@@ -19,7 +19,7 @@ Tools: VS Code · pycharm . Android Studio · IntelliJ IDEA · GitHub
 
 - 📫 Contact Me
 
-- ✉️ Email: juifull196044@gmail.com  
+- ✉️ [Email](juifull196044@gmail.com) 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jannati-akter-jui/)
 
 - 🧑‍💻 [GitHub](https://github.com/jui1960)  
