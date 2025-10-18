@@ -6,7 +6,7 @@ I'm a CSE student at Bogura Polytechnic and an intern at Daffodil International 
 🛠️ Skills
 
 Languages: C · C++ . python . dart . java . DSA
-Frontend: XML · Jetpack Compose · HTML · CSS · Flutter  
+Frontend: HTML · CSS · Flutter  
 Tools: VS Code · pycharm . Android Studio · IntelliJ IDEA · GitHub  
 
 
