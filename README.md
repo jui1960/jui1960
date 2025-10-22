@@ -17,13 +17,16 @@ Tools: VS Code · pycharm . Android Studio · IntelliJ IDEA · GitHub
 - 🌱 Learning : Machine Learning course at @phitronio
 - 💬 practise : Competitive Programming
 
-- 📫 Contact Me
+ 🧠 Competitive Programmer
+ 
+- 🚀 [Solving Problems on Codeforces](https://codeforces.com/profile/jannatijui)
+- ⚡ [Solving Problems on Codechef](https://www.codechef.com/users/jannatijui)
+
+📫 Contact Me
 
 - ✉️ [Email](juifull196044@gmail.com) 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jannati-akter-jui/)
 
 - 🧑‍💻 [GitHub](https://github.com/jui1960)  
-- 🌐 [Facebook](https://www.facebook.com/jannati.jui.135850)  
-
-
+- 🌐 [Facebook](https://www.facebook.com/jannati.jui.135850) 
 
