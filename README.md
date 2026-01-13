@@ -5,8 +5,8 @@ I'm a CSE student at Bogura Polytechnic Institute and intern at Daffodil Interna
 
 🛠️ Skills
 
-Languages: C · C++ . python . dart . java . DSA
-Frontend: HTML · CSS · Flutter  
+Languages: C · C++ . python . dart . kotlin. DSA
+Frontend: HTML · CSS · Flutter,Xml,jetpeck Compose  
 Tools: VS Code · pycharm . Android Studio · IntelliJ IDEA · GitHub  
 
 
