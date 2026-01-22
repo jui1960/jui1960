@@ -7,7 +7,7 @@ Currently, I'm learning Android App Development with Kotlin at NSDRF.
 🛠️ Skills
 
 Languages: C · C++ .  dart . kotlin. DSA 
-Frontend: HTML · CSS · Flutter,Xml,jetpeck Compose  
+|| Frontend: HTML · CSS · Flutter,Xml,jetpeck Compose  
 Tools: VS Code · pycharm . Android Studio · IntelliJ IDEA · GitHub  
 
 
