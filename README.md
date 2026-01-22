@@ -30,6 +30,9 @@ Tools: VS Code · pycharm . Android Studio · IntelliJ IDEA · GitHub
 <a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
+<a href="mailto:your@email.com">
+<img src="https://img.shields.io/badge/Email-FF3670?style=for-the-badge&logo=gmail"/>
+</a>
 
 </div>
 
