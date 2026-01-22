@@ -24,6 +24,7 @@ Tools: VS Code · pycharm . Android Studio · IntelliJ IDEA · GitHub
 - ⚡ [Solving Problems on Codechef](https://www.codechef.com/users/jannatijui)
 
 - [Solving Problem on beecrowd ]
+(https://www.judge.beecrowd.com/en/profile/1205681)
 
 📫 Contact Me
 <div align="center">
