@@ -24,10 +24,14 @@ Tools: VS Code · pycharm . Android Studio · IntelliJ IDEA · GitHub
 - ⚡ [Solving Problems on Codechef](https://www.codechef.com/users/jannatijui)
 
 📫 Contact Me
+<div align="center">
+
 
 <a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
+
+</div>
 
 
 - ✉️ [Email](juifull196044@gmail.com) 
