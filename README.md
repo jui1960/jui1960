@@ -26,15 +26,10 @@ Languages: C · C++ .  dart . kotlin. DSA
 
 
 <div align="center">
-
 <a href="https://github.com/jui1960">
-  <img src="https://img.shields.io/badge/GitHub-white?style=for-the-badge&logo=github&logoColor=black&labelColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-EDEDED?style=for-the-badge&logo=github&logoColor=000000&labelColor=EDEDED"/>
 </a>
 
-
-<a href="https://github.com/jui1960">
-  <img src="https://img.shields.io/badge/GitHub-white?style=flat-square&logo=github&logoColor=black"/>
-</a>
 
 
 
