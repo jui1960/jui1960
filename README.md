@@ -42,8 +42,7 @@ Languages: C · C++ .  dart . kotlin. DSA
 📫 Contact Me
 - ✉️ [Email](juifull196044@gmail.com) 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jannati-akter-jui/)
-
-- 🧑‍💻 [GitHub](https://github.com/jui1960)  
+- 🐙 [GitHub](https://github.com/jui1960)
 - 🌐 [Facebook](https://www.facebook.com/jannati.jui.135850)
 
 
