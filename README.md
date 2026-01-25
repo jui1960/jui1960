@@ -13,9 +13,9 @@ Languages: C · C++ .  dart . kotlin. DSA
 
 🎯 Currently
 
-- 📚 Studying : CSE at Bogura Polytechnic Institute  
-- 🔭 Working on : Flutter app development projects during internship  
-- 🌱 Learning : Machine Learning course at @phitronio & Kotlin (NHDA Certified) + Firebase Integration
+- 🎓 Studied CSE at Bogura Polytechnic Institute  
+- 🔭 Internship experience in Flutter app development
+- 📱 Current focus: Android App Development with Kotlin
 - 💬 practise : Competitive Programming
 
  🧠 Competitive Programmer
@@ -29,8 +29,6 @@ Languages: C · C++ .  dart . kotlin. DSA
 <a href="https://github.com/jui1960">
   <img src="https://img.shields.io/badge/GitHub-D6D6D6?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
-
-
 
 <a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
