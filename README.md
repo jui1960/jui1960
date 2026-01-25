@@ -25,9 +25,8 @@ Languages: C · C++ .  dart . kotlin. DSA
 
 - 🚀 [Solving Problem on beecrowd ](https://judge.beecrowd.com/en/profile/1205681)
 
-📫 Contact Me
-<div align="center">
 
+<div align="center">
 
 <a href="https://linkedin.com">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
@@ -39,6 +38,8 @@ Languages: C · C++ .  dart . kotlin. DSA
 </div
 
 
+
+📫 Contact Me
 - ✉️ [Email](juifull196044@gmail.com) 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jannati-akter-jui/)
 
@@ -49,12 +50,9 @@ Languages: C · C++ .  dart . kotlin. DSA
 
 ![GitHub Streak](https://streak-stats.vercel.app/?user=jui1960&theme=tokyonight)
 
-
-
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=ANALYZING+GITHUB+ACTIVITY;COMMITS+DETECTED+LEGENDARY+STATUS;CONTRIBUTION+LEVEL+ELITE+DEVELOPER;CONSISTENCY+UNBREAKABLE+STREAK" alt="Stats Header" />
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jui1960&theme=react-dark&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shakil-Flash&theme=react-dark&area=true" />
 </p>
 
 
