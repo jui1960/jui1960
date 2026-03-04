@@ -31,9 +31,9 @@ Languages: C · C++ .  dart . kotlin. Python. DSA
 
  🧠 Competitive Programmer
  
-- 🚀 [Solving Problems on Codeforces](https://codeforces.com/profile/jannatijui)
-- ⚡ [Solving Problems on Codechef](https://www.codechef.com/users/jannatijui)
-- 🚀 [Solving Problem on beecrowd ](https://judge.beecrowd.com/en/profile/1205681)
+🏆 [Codeforces:](https://codeforces.com/profile/jannatijui)
+🥇 [CodeChef:](https://www.codechef.com/users/jannatijui)
+🥇 [Beecrowd:](https://judge.beecrowd.com/en/profile/1205681)
 
 
 ### 🤝 Let's Connect
