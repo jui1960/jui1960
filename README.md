@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=200&section=header&text=Jannati%20Akter%20Jui&fontSize=45&fontColor=70a5fd&animation=fadeIn&desc=Android%20Developer&descAlignV=90&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=200&section=header&text=Jannati%20Akter%20Jui&fontSize=45&fontColor=70a5fd&animation=fadeIn&desc=Android%20Developer&descAlignV=120&descSize=20" />
 </p>
 
 <p align="center">
