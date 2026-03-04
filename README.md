@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=200&section=header&text=Jannati%20Akter%20Jui&fontSize=45&fontColor=70a5fd&animation=fadeIn&desc=&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android%20Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b27&height=200&section=header&text=Jannati%20Akter%20Jui&fontSize=45&fontColor=70a5fd&animation=fadeIn&desc=Android%20Developer&descAlignV=70&descSize=20" />
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-</p>
+</p>>
 
 Hi, I'm Jannati Akter Jui 👋
 I'm a CSE student at Bogura Polytechnic Institute and an intern at Daffodil International Professional Institute.
