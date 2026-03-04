@@ -36,7 +36,8 @@ Languages: C · C++ .  dart . kotlin. Python. DSA
 - 🚀 [Solving Problem on beecrowd ](https://judge.beecrowd.com/en/profile/1205681)
 
 
-<div align="center">
+### 🤝 Let's Connect
+<p align="center">
 <a href="https://github.com/jui1960">
   <img src="https://img.shields.io/badge/GitHub-D6D6D6?style=for-the-badge&logo=github&logoColor=000000"/>
 </a>
@@ -53,8 +54,7 @@ Languages: C · C++ .  dart . kotlin. Python. DSA
 <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-
-</div
+</p>
 
 
 
