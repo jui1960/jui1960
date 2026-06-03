@@ -10,7 +10,7 @@
 </p>
 
 Hi, I'm Jannati Akter Jui 👋
-I completed my Diploma in Computer Science And Technology from Bogura Polytechnic Institute and did my industrial attachment at DIPTI.
+I completed my Diploma in Computer Science & Technology from Bogura Polytechnic Institute and did my industrial attachment at DIPTI.
 I’ve already completed the Android App Development with Kotlin course at NSDRF, and now I’ve switched to Flutter.
 
 
