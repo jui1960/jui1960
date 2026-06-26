@@ -22,15 +22,15 @@ Languages: C · C++ .  dart . kotlin. Python. DSA
 || Tools: VS Code · pycharm . Android Studio · IntelliJ IDEA ·git. GitHub  
 
 
-🎯 Currently
+### 🎯 Currently & About Me
+* 🎓 **Education:** Currently studying B.Sc. in CSE at **Pundra University of Science & Technology, Bogura**, after successfully completing my Diploma in Computer Science & Technology from **Bogura Polytechnic Institute**.
+* 📱 **Current Focus:** Advanced Android App Development with **Flutter**.
+* 🔭 **Experience:** Hands-on Internship experience in **Flutter App Development** & professional training from NHRDF.
+* 💬 **Problem Solving:** Actively practicing **Competitive Programming (DSA)** to sharpen algorithmic skills.
 
-- 🎓 Studied CSE at Bogura Polytechnic Institute  
-- 🔭 Internship experience in Flutter app development
-- 📱 Current focus: Android App Development with Kotlin
-- 💬 practise : Competitive Programming
 
  🧠 Competitive Programmer
- 
+
 🏆 [Codeforces:](https://codeforces.com/profile/jannatijui)<br>
 🥇 [CodeChef:](https://www.codechef.com/users/jannatijui)<br>
 🥇 [Beecrowd:](https://judge.beecrowd.com/en/profile/1205681)<br>
