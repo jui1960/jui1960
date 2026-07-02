@@ -19,7 +19,7 @@ I’ve already completed the Android App Development with Kotlin course at NSDRF
 
 Languages: C · C++ .  dart . kotlin. Python. DSA 
 || Frontend: HTML · CSS · Flutter,Xml,jetpeck Compose  
-|| Tools: VS Code · pycharm . Android Studio · IntelliJ IDEA ·git. GitHub  
+|| Tools: VS Code · pycharm . Android Studio · IntelliJ IDEA ·git. GitHub. Exel. Google Sheet 
 
 
 ### 🎯 Currently & About Me
